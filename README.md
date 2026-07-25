@@ -229,40 +229,28 @@ class Karthikeyan:
 
 ---
 
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AGR2101">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 📫 Connect
 
-*"Code • Learn • Build • Repeat"* 🚀
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/AGR2101">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
-If you like my projects, don't forget to ⭐ them.
+<br><br>
 
-<br>
+⭐ <b>Thanks for visiting my profile!</b> 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58A6FF,100:0d1117"/>
+<i>Code • Learn • Build • Repeat</i>
 
 </div>
+
