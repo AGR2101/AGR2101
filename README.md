@@ -11,13 +11,49 @@ Artificial Intelligence • Machine Learning • Computer Vision
 <table align="center">
 <tr>
 
-<td width="35%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="assets/ascii.png" width="320"/>
+<pre style="font-size: 11px; line-height: 1.2; margin: 0; padding: 10px; background: #1a1a2e; border-radius: 10px; display: inline-block; color: #58a6ff;">
+┌─────────────────────────────────────┐
+│                                     │
+│   ██╗  ██╗ █████╗ ██████╗ ████████╗ │
+│   ██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝ │
+│   █████╔╝ ███████║██████╔╝   ██║    │
+│   ██╔═██╗ ██╔══██║██╔══██╗   ██║    │
+│   ██║  ██╗██║  ██║██║  ██║   ██║    │
+│   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    │
+│                                     │
+│   ███████╗██╗██╗  ██╗               │
+│   ██╔════╝██║╚██╗██╔╝               │
+│   █████╗  ██║ ╚███╔╝                │
+│   ██╔══╝  ██║ ██╔██╗                │
+│   ██║     ██║██╔╝ ██╗               │
+│   ╚═╝     ╚═╝╚═╝  ╚═╝               │
+│                                     │
+│   ╔═══════════════════════════════╗  │
+│   ║    AI TERMINAL v1.0          ║  │
+│   ╚═══════════════════════════════╝  │
+│                                     │
+│   $ cat skills.txt                  │
+│   ✔ Python                          │
+│   ✔ Machine Learning                │
+│   ✔ Computer Vision                 │
+│   ✔ OpenCV                          │
+│   ✔ TensorFlow                      │
+│   ✔ FastAPI                         │
+│                                     │
+│   $ ls projects/                    │
+│   Gesture Earth Controller          │
+│   AI Bill Reminder                  │
+│                                     │
+│   $ █                               │
+│                                     │
+└─────────────────────────────────────┘
+</pre>
 
 </td>
 
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 <img src="assets/terminal.svg" width="100%"/>
 
