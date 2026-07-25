@@ -229,9 +229,9 @@ class Karthikeyan:
 
 ---
 
-<div align="center">
+# 📫 Connect With Me
 
-### 📫 Connect With Me
+<p align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -249,10 +249,20 @@ class Karthikeyan:
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=⭐+Thanks+for+visiting+my+profile!;Code+•+Learn+•+Build+•+Repeat+🚀"/>
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code • Learn • Build • Repeat"* 🚀
+
+If you like my projects, don't forget to ⭐ them.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58A6FF,100:0d1117"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:0d1117,50:1f6feb,100:58A6FF&animation=twinkling" width="100%"/>
