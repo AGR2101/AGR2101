@@ -16,7 +16,6 @@ Artificial Intelligence • Machine Learning • Computer Vision
 
 <p align="center">
 
-<img src="assets/ascii.png" width="400"/>
 
 </p>
 
