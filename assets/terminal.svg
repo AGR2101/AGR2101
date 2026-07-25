@@ -121,6 +121,31 @@ fill="#f0f6fc">
 
 🤖 AI Bill Reminder
 
+<text x="40" y="355"
+font-family="Consolas"
+font-size="15"
+fill="#f0f6fc">
+
+🩺 COVID Image Classification
+
+</text>
+
+<text x="40" y="355"
+font-family="Consolas"
+font-size="15"
+fill="#f0f6fc">
+
+♻ Smart Bottle Return Machine
+
+</text>
+
+<text x="40" y="355"
+font-family="Consolas"
+font-size="15"
+fill="#f0f6fc">
+  
+📷 OpenCV Automation Projects
+
 </text>
 
 </svg>
