@@ -1,151 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="380" viewBox="0 0 700 380">
+<svg width="820" height="420" viewBox="0 0 820 420" xmlns="http://www.w3.org/2000/svg">
 
-<rect width="700" height="380" rx="14" fill="#0d1117"/>
+<defs>
+<style>
+.background{fill:#0d1117;}
+.bar{fill:#161b22;}
+.text{font-family:'JetBrains Mono',monospace;font-size:19px;}
+.white{fill:#ffffff;}
+.green{fill:#3fb950;}
+.blue{fill:#58a6ff;}
+.orange{fill:#ffb86b;}
+.gray{fill:#8b949e;}
+.red{fill:#f85149;}
+</style>
+</defs>
 
-<rect width="700" height="36" rx="14" fill="#161b22"/>
+<rect width="820" height="420" rx="12" class="background"/>
 
-<circle cx="20" cy="18" r="6" fill="#ff5f56"/>
-<circle cx="40" cy="18" r="6" fill="#ffbd2e"/>
-<circle cx="60" cy="18" r="6" fill="#27c93f"/>
+<rect width="820" height="38" rx="12" class="bar"/>
 
-<text x="90" y="23"
-font-family="Consolas"
-font-size="15"
-fill="#8b949e">
-karthikeyan@ai-terminal
-</text>
+<circle cx="22" cy="19" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="19" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="19" r="6" fill="#27c93f"/>
 
-<text x="20" y="65"
-font-family="Consolas"
-font-size="17"
-fill="#58a6ff">
+<text x="90" y="25" class="text gray">karthikeyan@ai-terminal</text>
 
-$ whoami
+<text x="30" y="72" class="text blue">$ whoami</text>
+<text x="30" y="98" class="text white">Karthikeyan</text>
 
-</text>
+<text x="30" y="138" class="text blue">$ cat skills.txt</text>
 
-<text x="20" y="90"
-font-family="Consolas"
-font-size="16"
-fill="#f0f6fc">
+<text x="30" y="168" class="text green">✓ Python</text>
+<text x="30" y="196" class="text green">✓ Machine Learning</text>
+<text x="30" y="224" class="text green">✓ Computer Vision</text>
+<text x="30" y="252" class="text green">✓ OpenCV</text>
+<text x="30" y="280" class="text green">✓ TensorFlow</text>
+<text x="30" y="308" class="text green">✓ PyTorch</text>
+<text x="30" y="336" class="text green">✓ FastAPI</text>
 
-Karthikeyan
+<text x="420" y="72" class="text blue">$ ls projects/</text>
 
-</text>
+<text x="420" y="104" class="text white">🌍 Gesture Earth Controller</text>
+<text x="420" y="132" class="text white">🤖 AI Bill Reminder</text>
+<text x="420" y="160" class="text white">🩺 COVID Detection</text>
+<text x="420" y="188" class="text white">♻ Bottle Return Machine</text>
+<text x="420" y="216" class="text white">📷 OpenCV Projects</text>
 
-<text x="20" y="125"
-font-family="Consolas"
-font-size="17"
-fill="#58a6ff">
+<text x="420" y="260" class="text blue">$ python status.py</text>
 
-$ cat skills.txt
+<text x="420" y="292" class="text orange">Status : Learning Everyday 🚀</text>
 
-</text>
+<text x="420" y="324" class="text orange">Goal   : AI Engineer</text>
 
-<text x="20" y="150"
-font-family="Consolas"
-font-size="15"
-fill="#3fb950">
+<text x="420" y="356" class="text orange">Focus  : Real World AI Products</text>
 
-✓ Python
-
-</text>
-
-<text x="20" y="175"
-font-family="Consolas"
-font-size="15"
-fill="#3fb950">
-
-✓ Machine Learning
-
-</text>
-
-<text x="20" y="200"
-font-family="Consolas"
-font-size="15"
-fill="#3fb950">
-
-✓ Computer Vision
-
-</text>
-
-<text x="20" y="225"
-font-family="Consolas"
-font-size="15"
-fill="#3fb950">
-
-✓ OpenCV
-
-</text>
-
-<text x="20" y="250"
-font-family="Consolas"
-font-size="15"
-fill="#3fb950">
-
-✓ TensorFlow
-
-</text>
-
-<text x="20" y="275"
-font-family="Consolas"
-font-size="15"
-fill="#3fb950">
-
-✓ FastAPI
-
-</text>
-
-<text x="20" y="310"
-font-family="Consolas"
-font-size="17"
-fill="#58a6ff">
-
-$ ls projects/
-
-</text>
-
-<text x="40" y="335"
-font-family="Consolas"
-font-size="15"
-fill="#f0f6fc">
-
-🌍 Gesture Earth Controller
-
-</text>
-
-<text x="40" y="355"
-font-family="Consolas"
-font-size="15"
-fill="#f0f6fc">
-
-🤖 AI Bill Reminder
-
-<text x="40" y="355"
-font-family="Consolas"
-font-size="15"
-fill="#f0f6fc">
-
-🩺 COVID Image Classification
-
-</text>
-
-<text x="40" y="355"
-font-family="Consolas"
-font-size="15"
-fill="#f0f6fc">
-
-♻ Smart Bottle Return Machine
-
-</text>
-
-<text x="40" y="355"
-font-family="Consolas"
-font-size="15"
-fill="#f0f6fc">
-  
-📷 OpenCV Automation Projects
-
-</text>
+<text x="30" y="390" class="text blue">$ _</text>
 
 </svg>
