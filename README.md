@@ -1,32 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,50:1f6feb,100:58A6FF&text=Karthikeyan&fontColor=ffffff&fontSize=28&fontAlignY=38&desc=Artificial%20Intelligence%20•%20Machine%20Learning%20•%20Computer%20Vision&descAlignY=68&descSize=12&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:1f6feb,100:58A6FF&text=Karthikeyan&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Artificial%20Intelligence%20•%20Machine%20Learning%20•%20Computer%20Vision&descAlignY=66&descSize=14&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&height=30&lines=Python+Developer;Artificial+Intelligence;Computer+Vision;OpenCV+Developer;Machine+Learning;Building+Awesome+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Python+Developer;Artificial+Intelligence;Computer+Vision;OpenCV+Developer;Machine+Learning;Building+Awesome+Projects"/>
 
-<p align="center">
+<br>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AGR2101">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=AGR2101&label=Profile+Views&color=0e75b6&style=flat-square"/>
 
 </div>
+
+---
 
 ---
 
@@ -196,18 +198,6 @@ Location:
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AGR2101&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGR2101&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -232,41 +222,9 @@ Location:
 
 ```python
 class Karthikeyan:
-
-    def __init__(self):
-        self.name = "Karthikeyan"
-
-        self.languages = [
-            "Python",
-            "Java",
-            "SQL"
-        ]
-
-        self.ai_stack = [
-            "TensorFlow",
-            "OpenCV",
-            "YOLO",
-            "LangChain",
-            "LangGraph"
-        ]
-
-        self.focus = "Artificial Intelligence"
-
-        self.learning = [
-            "Deep Learning",
-            "Computer Vision",
-            "Agentic AI"
-        ]
-
-        self.goal = "Build Real-World AI Products"
-
-    def greet(self):
-        return "Thanks for visiting my GitHub Profile 🚀"
-
-
-me = Karthikeyan()
-
-print(me.greet())
+    stack = ["Python", "OpenCV", "TensorFlow", "YOLO"]
+    learning = "Deep Learning & Agentic AI"
+    goal = "Build Real-World AI Products 🚀"
 ```
 
 ---
