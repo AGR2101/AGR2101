@@ -1,24 +1,47 @@
-<h1 align="center">Hi 👋, I'm Karthikeyan</h1>
+<div align="center">
 
-<h3 align="center">
-Artificial Intelligence • Machine Learning • Computer Vision
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:1f6feb,100:58A6FF&text=Karthikeyan&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Artificial%20Intelligence%20•%20Machine%20Learning%20•%20Computer%20Vision&descAlignY=58&animation=twinkling"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Artificial+Intelligence;Computer+Vision;OpenCV+Developer;Machine+Learning;Building+Awesome+Projects" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Artificial+Intelligence;Machine+Learning;Computer+Vision;OpenCV+Developer;Building+Real+World+AI+Projects" />
+
+<br><br>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AGR2101">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AGR2101&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
+# 💻 Terminal
+
 <table align="center" width="100%">
 <tr>
-<td width="32%" align="center" valign="middle">
 
-<img src="assets/ascii_fixed.png" width="100%" alt="ASCII Portrait"/>
+<td width="35%" align="center">
+
+<img src="assets/ascii_fixed.png" width="100%" alt="ASCII"/>
 
 </td>
 
-<td width="68%" valign="top">
+<td width="65%">
 
 <img src="assets/terminal.svg" width="100%" alt="Terminal"/>
 
@@ -34,11 +57,26 @@ Artificial Intelligence • Machine Learning • Computer Vision
 ```yaml
 Name      : Karthikeyan
 Role      : AI & Data Science Student
-Language  : Python
-Interest  : Computer Vision
-Learning  : Deep Learning
-Goal      : Build Real-World AI Products
 Location  : India
+
+Programming:
+  - Python
+  - Java
+  - SQL
+
+Specialization:
+  - Artificial Intelligence
+  - Machine Learning
+  - Computer Vision
+
+Currently Learning:
+  - Deep Learning
+  - Agentic AI
+  - LangChain
+  - LangGraph
+
+Goal:
+  Build Real-World AI Products
 ```
 
 ---
@@ -49,66 +87,37 @@ Location  : India
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql"/>
 
 </p>
 
 ---
 
-## 🤖 AI / Machine Learning
+## 🤖 AI & Machine Learning
 
 <p align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🗄️ Databases
+## 🛠 Tools
 
 <p align="center">
 
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</p>
-
----
-
-## 🛠️ Tools & Frameworks
-
-<p align="center">
-
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</p>
-
----
-
-## ⚙️ Industrial AI
-
-<p align="center">
-
-![IoT Sensors](https://img.shields.io/badge/IoT_Sensors-4B0082?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![TinyML](https://img.shields.io/badge/TinyML-00B4D8?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Digital Twins](https://img.shields.io/badge/Digital_Twins-0066FF?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Predictive Maintenance](https://img.shields.io/badge/Predictive_Maintenance-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </p>
 
@@ -116,13 +125,13 @@ Location  : India
 
 # 🚀 Featured Projects
 
-| 🚀 Project | 💡 Description |
-|------------|----------------|
-| 🌍 Gesture Earth Controller | Control Google Earth using Hand Gestures |
-| 🤖 AI Bill Reminder | AI-powered Expense Reminder |
-| 🩺 COVID Detection | Medical Image Classification |
-| ♻️ Smart Bottle Return Machine | YOLOv8 + Raspberry Pi |
-| 📷 OpenCV Projects | Face Detection • Hand Tracking • Object Detection |
+| 🌍 Project | Description |
+|------------|-------------|
+| Gesture Earth Controller | Control Google Earth using Hand Gestures |
+| AI Bill Reminder | AI-powered Expense Reminder |
+| COVID Detection | Medical Image Classification |
+| Smart Bottle Return Machine | YOLOv8 + Raspberry Pi |
+| OpenCV Projects | Face Detection • Hand Tracking • Object Detection |
 
 ---
 
@@ -148,6 +157,16 @@ Location  : India
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AGR2101&theme=tokyo-night"/>
+
+</p>
+
+---
+
 # ⚡ Fun Fact
 
 ```python
@@ -155,27 +174,26 @@ class Karthikeyan:
 
     def __init__(self):
         self.languages = ["Python", "Java"]
-        self.ai = ["OpenCV", "TensorFlow", "YOLO"]
-        self.focus = "Artificial Intelligence"
-        self.learning = "Deep Learning"
+        self.ai = [
+            "OpenCV",
+            "TensorFlow",
+            "YOLO",
+            "LangChain"
+        ]
         self.goal = "Build AI Products"
 
     def greet(self):
-        return "Thanks for visiting my profile 🚀"
+        return "Thanks for visiting my GitHub! 🚀"
 ```
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AGR2101&label=Profile+Views&color=0e75b6&style=flat"/>
+### ⭐ Thanks for visiting my profile!
 
-</p>
+If you like my projects, consider giving them a ⭐
 
----
+</div>
 
-<h3 align="center">
-
-⭐ If you like my projects, consider giving them a star!
-
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:58A6FF,100:0d1117"/>
