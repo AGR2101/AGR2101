@@ -15,7 +15,7 @@ Artificial Intelligence • Machine Learning • Computer Vision
 <table align="center">
 <tr>
 <td width="32%" align="center" valign="middle">
-  <img src="assets/ascii.png" width="100%" alt="ASCII Portrait"/>
+  <img src="assets/ascii_fixed.png" width="100%" alt="ASCII Portrait"/>
 </td>
 <td width="68%" valign="top">
   <img src="assets/terminal.svg" width="100%" alt="Terminal"/>
