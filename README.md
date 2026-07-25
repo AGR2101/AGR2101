@@ -1,32 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d1117,50:1f6feb,100:58A6FF&text=Karthikeyan&fontColor=ffffff&fontSize=38&fontAlignY=35&desc=Artificial%20Intelligence%20•%20Machine%20Learning%20•%20Computer%20Vision&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,50:1f6feb,100:58A6FF&text=Karthikeyan&fontColor=ffffff&fontSize=28&fontAlignY=38&desc=Artificial%20Intelligence%20•%20Machine%20Learning%20•%20Computer%20Vision&descAlignY=68&descSize=12&animation=fadeIn" width="100%"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&height=30&lines=Python+Developer;Artificial+Intelligence;Computer+Vision;OpenCV+Developer;Machine+Learning;Building+Awesome+Projects"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Python+Developer;Artificial+Intelligence;Computer+Vision;OpenCV+Developer;Machine+Learning;Building+Awesome+Projects"/>
-
-<br><br>
+<p align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AGR2101">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=AGR2101&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AGR2101&label=Profile+Views&color=0e75b6&style=flat-square"/>
 
 </div>
 
@@ -215,16 +213,6 @@ Location:
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AGR2101&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AGR2101&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
