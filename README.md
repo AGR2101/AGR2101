@@ -1,61 +1,29 @@
-<h1 align="center">Hi 👋, I'm Karthikeyan</h1>
+<h1 align="center">
+Hi 👋, I'm Karthikeyan
+</h1>
 
 <h3 align="center">
 Artificial Intelligence • Machine Learning • Computer Vision
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Python+Developer;Computer+Vision;OpenCV+Developer;Building+Awesome+AI+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Artificial+Intelligence;Computer+Vision;OpenCV+Developer;Machine+Learning;Building+Awesome+Projects"/>
 </p>
+
+---
 
 <table align="center">
 <tr>
 
-<td width="40%" align="center" valign="middle">
+<td width="32%" align="center" valign="middle">
 
-<pre style="font-size: 11px; line-height: 1.2; margin: 0; padding: 10px; background: #1a1a2e; border-radius: 10px; display: inline-block; color: #58a6ff;">
-┌─────────────────────────────────────┐
-│                                     │
-│   ██╗  ██╗ █████╗ ██████╗ ████████╗ │
-│   ██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝ │
-│   █████╔╝ ███████║██████╔╝   ██║    │
-│   ██╔═██╗ ██╔══██║██╔══██╗   ██║    │
-│   ██║  ██╗██║  ██║██║  ██║   ██║    │
-│   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    │
-│                                     │
-│   ███████╗██╗██╗  ██╗               │
-│   ██╔════╝██║╚██╗██╔╝               │
-│   █████╗  ██║ ╚███╔╝                │
-│   ██╔══╝  ██║ ██╔██╗                │
-│   ██║     ██║██╔╝ ██╗               │
-│   ╚═╝     ╚═╝╚═╝  ╚═╝               │
-│                                     │
-│   ╔═══════════════════════════════╗  │
-│   ║    AI TERMINAL v1.0          ║  │
-│   ╚═══════════════════════════════╝  │
-│                                     │
-│   $ cat skills.txt                  │
-│   ✔ Python                          │
-│   ✔ Machine Learning                │
-│   ✔ Computer Vision                 │
-│   ✔ OpenCV                          │
-│   ✔ TensorFlow                      │
-│   ✔ FastAPI                         │
-│                                     │
-│   $ ls projects/                    │
-│   Gesture Earth Controller          │
-│   AI Bill Reminder                  │
-│                                     │
-│   $ █                               │
-│                                     │
-└─────────────────────────────────────┘
-</pre>
+<img src="assets/ascii.png" width="100%" alt="ASCII Portrait"/>
 
 </td>
 
-<td width="60%" valign="top">
+<td width="68%" valign="top">
 
-<img src="assets/terminal.svg" width="100%"/>
+<img src="assets/terminal.svg" width="100%" alt="Terminal"/>
 
 </td>
 
@@ -66,35 +34,47 @@ Artificial Intelligence • Machine Learning • Computer Vision
 
 # 👨‍💻 About Me
 
-- 🎓 AI & Data Science Student
-- 🤖 Passionate about Artificial Intelligence
-- 👁️ Computer Vision Developer
-- 🐍 Python Programmer
-- 🚀 Building Real-World AI Applications
-- 📚 Currently learning Deep Learning & MLOps
-- 💡 Interested in Open Source and Research
+```yaml
+Name      : Karthikeyan
+Role      : AI & Data Science Student
+Language  : Python
+Interest  : Computer Vision
+Learning  : Deep Learning
+Goal      : Build Real-World AI Products
+Location  : India
+```
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,fastapi,git,github,vscode,docker,mysql,linux,react"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,docker,git,github,linux,mysql,vscode"/>
 
 </p>
 
 ---
 
+# 🧠 Currently Working On
+
+- 🌍 Gesture Earth Controller
+- 🤖 AI Bill Reminder
+- 🩺 COVID Image Classification
+- ♻ Smart Bottle Return Machine
+- 📷 OpenCV Automation Projects
+
+---
+
 # 🚀 Featured Projects
 
-| 🚀 Project | Description |
-|------------|-------------|
+| Project | Description |
+|---------|-------------|
 | 🌍 Gesture Earth Controller | Control Google Earth using Hand Gestures |
-| 🤖 AI Bill Reminder | Intelligent Expense Reminder App |
-| 🩺 COVID Detection | Medical Image Classification using Deep Learning |
-| ♻ Smart Bottle Return Machine | YOLOv8 + Raspberry Pi + AI |
-| 📷 OpenCV Collection | Image Processing & Computer Vision Projects |
+| 🤖 AI Bill Reminder | AI-powered Expense Reminder |
+| 🩺 COVID Detection | Medical Image Classification |
+| ♻ Smart Bottle Return Machine | YOLOv8 + Raspberry Pi |
+| 📷 OpenCV Projects | Face Detection • Hand Tracking • Object Detection |
 
 ---
 
@@ -102,9 +82,11 @@ Artificial Intelligence • Machine Learning • Computer Vision
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AGR2101&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=AGR2101&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGR2101&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGR2101&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -120,16 +102,6 @@ Artificial Intelligence • Machine Learning • Computer Vision
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AGR2101&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -140,30 +112,41 @@ Artificial Intelligence • Machine Learning • Computer Vision
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AGR2101&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# ⚡ Fun Fact
+
+```python
+class Karthikeyan:
+
+    def __init__(self):
+        self.code = ["Python", "OpenCV", "TensorFlow"]
+        self.focus = "Artificial Intelligence"
+        self.learning = "Deep Learning"
+        self.goal = "Build AI Products"
+
+    def say_hi(self):
+        print("Thanks for visiting my profile 🚀")
+```
+
+---
 
 <p align="center">
 
-<a href="https://github.com/AGR2101">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=AGR2101&label=Profile+Views&color=0e75b6&style=flat"/>
 
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+</p>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+
+⭐ If you like my projects, consider giving them a star!
 
 </p>
